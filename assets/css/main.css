@@ -2021,7 +2021,7 @@
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-			background-color: #B29C7D;
+			background-color: #DBCDAD;
 			box-shadow: inset 0 0 0 1px #B29C7D;
 			color: #B29C7D !important;
 		}

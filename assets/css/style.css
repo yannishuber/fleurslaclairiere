@@ -10,6 +10,10 @@
   font-size: 0.8em;
 }
 
+h2{
+  color: #B29C7D !important;
+}
+
 @media only screen and (min-width: 768px) {
     .logo_flc{
       height: 300px;
