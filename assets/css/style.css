@@ -1,3 +1,12 @@
+::selection {
+  background: #B29C7D; /* WebKit/Blink Browsers */
+  color: whitesmoke;
+}
+::-moz-selection {
+  background: #B29C7D; /* Gecko Browsers */
+  color: whitesmoke;
+}
+
 .logo_flc{
   height: 150px;
 }
