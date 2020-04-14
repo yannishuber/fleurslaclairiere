@@ -1,9 +1,9 @@
 ::selection {
-  background: #B29C7D; /* WebKit/Blink Browsers */
+  background: #9db7a9; /* WebKit/Blink Browsers */
   color: whitesmoke;
 }
 ::-moz-selection {
-  background: #B29C7D; /* Gecko Browsers */
+  background: #9db7a9; /* Gecko Browsers */
   color: whitesmoke;
 }
 
@@ -20,7 +20,7 @@
 }
 
 h2{
-  color: #B29C7D !important;
+  color: #9db7a9 !important;
 }
 
 @media only screen and (min-width: 768px) {
